@@ -1,6 +1,9 @@
-# ORB-SLAM3
-
-### V0.3: Beta version, 7 Aug 2020
+# ORB-SLAM3-Map-Prior
+### Descriptioon:
+This project will include semantic segmentation and public prior infomraiton from OpenStreetMap into OBR-SLAM3 to enhance the loaclization accuracy.
+Usage tempete: ./test_prior_mono.sh
+ 
+### USE V0.3: Beta version ORB-SLAM3 as base, 7 Aug 2020
 **Authors:** Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, [José M. M. Montiel](http://webdiis.unizar.es/~josemari/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/).
 
 ORB-SLAM3 is the first real-time SLAM library able to perform **Visual, Visual-Inertial and Multi-Map SLAM** with **monocular, stereo and RGB-D** cameras, using **pin-hole and fisheye** lens models. In all sensor configurations, ORB-SLAM3 is as robust as the best systems available in the literature, and significantly more accurate. 
